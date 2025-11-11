@@ -1,0 +1,9 @@
+sounddevice
+librosa
+numpy
+scikit-learn
+lightgbm
+joblib 
+matplotlib
+soundfile 
+termcolor 
